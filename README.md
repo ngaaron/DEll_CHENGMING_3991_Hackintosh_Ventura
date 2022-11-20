@@ -38,7 +38,7 @@
 * 其他设置似乎没有太大影响，我保持主板默认了。
 
 ### 使用说明
-* 目前个人使用中支持BigSur和Monterey系统的安装和升级，并支持升级Ventura成功。
+* 目前个人使用中支持BigSur和Monterey系统的安装和升级，并升级Ventura成功。
 
 ### 可能问题及解决方案
 * 更新完系统后没有Hipi的话，可以使用one-key-hidpi-master脚本一键开启。
